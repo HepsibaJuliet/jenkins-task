@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to Jenkins Task-2"
+echo "task 2 updated"
 
 date
 
