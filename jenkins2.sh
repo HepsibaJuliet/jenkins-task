@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo " julie"
+echo "deployed by  julie"
 
 date
 
